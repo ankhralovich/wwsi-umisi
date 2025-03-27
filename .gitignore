@@ -2,3 +2,6 @@
 .env
 *.env
 .env.*
+
+#ignore csv dumps
+*.csv
