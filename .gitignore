@@ -3,5 +3,6 @@
 *.env
 .env.*
 
-#ignore csv dumps
+#ignore csv / json dumps
 *.csv
+*json
